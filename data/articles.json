@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Global Climate Summit Reaches Historic Agreement",
+    "excerpt": "World leaders have agreed on new measures to combat climate change at this year's summit...",
+    "category": "World",
+    "author": "Sarah Johnson",
+    "icon": "🌍",
+    "date": "2025-03-15",
+    "content": "In a groundbreaking development, world leaders have come together at the Global Climate Summit to forge a historic agreement on climate action. The comprehensive plan includes ambitious targets for reducing carbon emissions, transitioning to renewable energy, and protecting biodiversity."
+  },
+  {
+    "id": 2,
+    "title": "New AI Breakthrough in Medical Diagnostics",
+    "excerpt": "Researchers have developed an AI system that can detect diseases with unprecedented accuracy...",
+    "category": "Technology",
+    "author": "Michael Chen",
+    "icon": "💻",
+    "date": "2025-03-14",
+    "content": "A team of researchers has unveiled a revolutionary artificial intelligence system capable of diagnosing medical conditions with remarkable precision. The AI model has been trained on millions of medical images and can identify early signs of diseases that might be missed by human practitioners."
+  },
+  {
+    "id": 3,
+    "title": "Championship Finals Draw Record Viewership",
+    "excerpt": "Last night's thrilling match broke all previous records with millions tuning in worldwide...",
+    "category": "Sports",
+    "author": "David Martinez",
+    "icon": "⚽",
+    "date": "2025-03-13",
+    "content": "The championship finals captivated audiences around the globe, with an estimated 500 million viewers tuning in to watch the spectacular match. The game went into overtime, delivering edge-of-your-seat excitement that kept fans glued to their screens until the final whistle."
+  },
+  {
+    "id": 4,
+    "title": "Museum Unveils Rare Ancient Artifacts",
+    "excerpt": "A collection of previously unseen artifacts from ancient civilizations goes on display...",
+    "category": "Culture",
+    "author": "Emily Roberts",
+    "icon": "🎭",
+    "date": "2025-03-12",
+    "content": "The National Museum has opened a new exhibition featuring rare artifacts from ancient civilizations that have never been displayed to the public before. The collection includes pottery, jewelry, and manuscripts that provide fascinating insights into life thousands of years ago."
+  },
+  {
+    "id": 5,
+    "title": "Tech Startup Valued at $1 Billion After Funding",
+    "excerpt": "The innovative company secured major investment, joining the unicorn club...",
+    "category": "Business",
+    "author": "James Wilson",
+    "icon": "💼",
+    "date": "2025-03-11",
+    "content": "A promising tech startup has achieved unicorn status after securing $200 million in Series C funding, bringing its valuation to $1 billion. The company's innovative platform has disrupted traditional industry practices and attracted attention from major investors worldwide."
+  },
+  {
+    "id": 6,
+    "title": "Scientists Discover New Species in Deep Ocean",
+    "excerpt": "Marine biologists have identified several previously unknown species during an expedition...",
+    "category": "Science",
+    "author": "Dr. Lisa Anderson",
+    "icon": "🔬",
+    "date": "2025-03-10",
+    "content": "A groundbreaking deep-sea expedition has resulted in the discovery of multiple new species living in the ocean's most extreme environments. The findings include bioluminescent fish, unique coral formations, and microorganisms that could have implications for biotechnology research."
+  }
+]
