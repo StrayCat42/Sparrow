@@ -22,10 +22,10 @@ news-website/
 
 1. Clone or download this project
 2. **Important:** You must run this with a local server due to CORS restrictions when loading JSON files
-   - **Option 1 (Python):** `python -m http.server 8000` or `python3 -m http.server 8000`
+   - **Option 1 (Python):** `python -m http.server 8000` or `python3 -m http.server 8000`!!!!!!!!
    - **Option 2 (Node.js):** `npx http-server`
    - **Option 3 (VS Code):** Install "Live Server" extension and click "Go Live"
-3. Open `http://localhost:8000` (or the port your server uses) in your browser
+3. Open `http://localhost:8000` (or the port your server uses) in your browser  !!!!!!!!!!!!!!!!
 4. No build process required - pure HTML, CSS, and JavaScript!
 
 ## Features
@@ -48,3 +48,4 @@ _________________________________________________________________________
 4. Manual input of articles
 
 ## Bugs
+1. Nav bar is misaligned, Please fix
