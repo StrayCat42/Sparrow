@@ -10,7 +10,12 @@
     <!-- Navigation Bar -->
     <nav>
         <div class="nav-container">
-            <div class="logo">📰 Sparrow News</div>
+            <div class="logo">
+                <svg width="28" height="28" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                    <path fill="#ffffff" d="M12 2C8 2 2 4 2 10c0 5 5 11 10 12s10-6 10-12c0-6-6-8-10-8z"/>
+                </svg>
+                <span>Sparrow News</span>
+            </div>
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#world">World</a></li>
@@ -30,7 +35,16 @@
     <!-- Main Content -->
     <div class="container">
         <h2 class="section-title">Latest Stories</h2>
-        
+
+        <!-- Search bar and filters -->
+        <div class="search-bar">
+            <input type="search" id="search-input" placeholder="Search articles by title, author, category or keywords..." aria-label="Search articles">
+            <select id="category-filter" aria-label="Filter by category">
+                <option value="">All categories</option>
+            </select>
+            <div id="search-count" class="search-count" aria-live="polite"></div>
+        </div>
+
         <!-- Articles will be loaded dynamically from articles.json -->
         <div class="articles-grid" id="articles-container">
             <!-- Loading message -->
